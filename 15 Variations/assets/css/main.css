@@ -181,7 +181,7 @@ border-bottom: 1px cyan double;
   line-height: 210px;
   font-size: 10pt;
   text-align: center;
-
+  position: static;
 }
 
 .ul {
@@ -201,4 +201,50 @@ border-bottom: 1px cyan double;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
+}
+/* level 5b */
+.fiveb{
+  text-align: center;
+  font-family: times;
+  line-height: 22px;
+  letter-spacing: 2px;
+  font-size: 16px;
+  margin-top: 200px;
+  margin-left: 454px;
+  margin-bottom:200px;
+  width: 28%;
+}
+#img{
+  margin:170px 900px 100px 50px;
+  position: fixed;
+  opacity: 0.5;
+}
+#img2{
+  margin:170px 90px 100px 810px;
+  position: fixed;
+  opacity: 0.5;
+}
+#yep{
+  font-family: times;
+  font-size: 30pt;
+  margin-top: 280px;
+  margin-left: 135px;
+}
+/* level 5c */
+.fc{
+  background-color: black;
+}
+.fivec{
+  font-family: times, serif;
+  margin: auto;
+  width: 38%;
+  margin-top: 400px;
+  text-align: center;
+  color: purple;
+}
+
+#img3{
+  margin: 40px 370px;
+  position: fixed;
+  opacity: 0.4;
 }
