@@ -7,3 +7,91 @@
 
 
 /* Start here */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/* level 3a */
+
+.box{
+  color: red;
+  border: 3px blue solid;
+  padding:60px;
+  position: fixed;
+  margin: 1% 32%;
+}
+
+.p1{
+  color: red;
+  margin-top: 200px;
+}
+.p2{
+  color: red;
+  margin-left: 950px;
+}
+.p3{
+  color: red;
+  margin-top: 200px;
+}
+.p4{
+  color: red;
+  margin-left: 950px;
+  margin-bottom: 200px;
+}
+
+/* level 3b */
+
+#threeb{
+  font-family: Georgia, Times, serif;
+  font-style: italic;
+  color: white;
+  width:5000px;
+  background-color: black;
+}
+
+.position{
+  position: relative;
+  top:110px;
+  left:30%;
+}
+
+.title {
+  border: 10px solid;
+  position: fixed;
+  margin-top: 60px;
+  margin-left: 1030px;
+  padding: 20px;
+}
+
+#subhead{
+margin-left: 550px;
+border-bottom: 1px cyan double;
+}
+
+#space{
+  border-bottom: 3px cyan double;
+  padding: 10px;
+}
+
+#late{
+  border-bottom: 3px cyan double;
+  padding: 10px;
+}
+
+#metaphor{
+  border-bottom: 3px cyan double;
+  padding: 10px;
+}
+
+#risks{
+  border-bottom: 3px cyan double;
+  padding: 10px;
+}
+
+/* level 3c */
+
+.threec{
+  font-family: sans-serif;
+  color: white;
+  background-color: black;
+}
