@@ -144,6 +144,31 @@ border-bottom: 1px cyan double;
   padding: 40px 120px 40px 120px;
 }
 
+/* level 4c */
+.fourc{
+  text-align: center;
+  margin: auto;
+  width:100%;
+}
+#fourp{
+  font-size: 5pt;
+  line-height: 10px;
+  font-family: arial;
+}
+.bottom{
+  font-size: 40pt;
+  text-align: right;
+  position: fixed;
+}
+.top{
+  font-size: 40pt;
+  text-align: right;
+  position: fixed;
+}
+#bord{
+  border: 3px red dashed;
+  padding: 15px;
+}
 /* level 5a */
 
 .rotate {
