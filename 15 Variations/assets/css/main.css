@@ -170,7 +170,35 @@ border-bottom: 1px cyan double;
   padding: 15px;
 }
 /* level 5a */
-
 .rotate {
-  transform: rotate(90deg);
+  transform: rotate(50deg);
+}
+.rotate2{
+  transform: rotate(140deg);
+}
+
+.fivea{
+  line-height: 210px;
+  font-size: 10pt;
+  text-align: center;
+
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+.li {
+    float: left;
+}
+
+.li #a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
 }
