@@ -91,7 +91,14 @@ border-bottom: 1px cyan double;
 /* level 3c */
 
 .threec{
-  font-family: sans-serif;
+  margin: 50px 50px 50px 50px;
+  width: 2300px;
+  font-family: verdana;
   color: white;
   background-color: black;
+}
+
+.numhead{
+  border: 1px white solid;
+  padding: 20px 1100px 20px 1100px ;
 }
